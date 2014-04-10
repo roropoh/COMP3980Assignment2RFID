@@ -1,0 +1,6 @@
+#include "Header.h"
+
+MYMENU MENU
+{
+	MENUITEM "&Connect", IDM_CONNECT
+}
